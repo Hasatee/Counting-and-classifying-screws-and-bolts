@@ -1,0 +1,7 @@
+// SAO CHÉP file này thành src/wifi_config.h rồi điền thông tin mạng của bạn.
+// src/wifi_config.h bị .gitignore loại ra nên mật khẩu không bao giờ bị đẩy lên GitHub.
+
+#pragma once
+
+const char *ssid = "YOUR_WIFI_SSID";
+const char *password = "YOUR_WIFI_PASSWORD";
